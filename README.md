@@ -8,3 +8,9 @@ Sample website with plenty of files for demos
 ##Introduction
 
 ## GIT & GITHUB Training
+
+## GIT Comparisons
+Adding GIT Comparisons Lectures
+
+## GITHub Content
+Comparison with Repo
