@@ -1,6 +1,7 @@
 # Starter Web-Project i
 
 This repository is for showing how Git and GitHub work
+Lot of lectures are coming up
 
 ## Purpose
 
