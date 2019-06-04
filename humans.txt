@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 Hi I am modifying the file before rebase
+HI, I am going to insert feature confict in feature branch
 # TEAM
 
     <name> -- <role> -- <twitter>
