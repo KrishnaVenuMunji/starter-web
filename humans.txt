@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 Hi I am modifying the file before rebase
 some changes in local repository
+HI, I am going to insert feature confict in feature branch
 # TEAM
 
     <name> -- <role> -- <twitter>
