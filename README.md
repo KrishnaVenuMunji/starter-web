@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 
 ## GIT & GITHUB Training
 git rebase and git advanced topics
+we have done so much work in training
 ## GIT Comparisons
 Adding GIT Comparisons Lectures
 
