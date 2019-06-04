@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 Hi I am modifying the file before rebase
+some changes in local repository
 # TEAM
 
     <name> -- <role> -- <twitter>
