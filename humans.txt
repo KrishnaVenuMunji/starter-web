@@ -21,3 +21,4 @@ Adding important note on git stash
     HTML5, CSS3
     jQuery, Moderniz
     AWS, DevOps, Google Cloud
+    AWS Solution Architecture and Developer
